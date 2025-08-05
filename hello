@@ -1,0 +1,22 @@
+Here’s the simplest Hello World program in C:
+
+#include <stdio.h>  
+
+int main() {  
+    printf("Hello, World!");  
+    return 0;  
+}
+
+ Breakdown:
+
+#include <stdio.h> → Adds standard input/output functions (needed for printf)
+
+int main() → Main function where execution starts
+
+printf() → Prints text to screen
+
+return 0; → Ends program successfully
+
+
+Want me to also show how the flowchart of this program would look? 
+
